@@ -1,0 +1,6 @@
+{
+  "name": "WPA PPE Management System",
+  "description": "Sistem Manajemen Alat Pelindung Diri (APD) Profesional PT. Watu Perkasa Abadi untuk Kepatuhan HSE, Kontrol Stok GA, dan Audit Clearance HRD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
